@@ -13,7 +13,7 @@ Usual walkthroughs blurt out the solution, such as the password for the next lev
 ## Features 
 * Comes with hints that encourage the user to read the man page, and googling (Wherever I felt it was needed).
 * Does not give passwords of the levels.
-* Does not give the user the complete answer (not applicable for first few levels), hence the user is forced to learn commands, hence, the purpose of Bandit is served.
+* Does not give user the complete answer (not applicable for first few levels), hence the user is forced to learn commands, hence, the purpose of Bandit is served.
 
 ## Tech Stack
 * Language: Python
