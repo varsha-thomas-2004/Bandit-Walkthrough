@@ -2,6 +2,8 @@
 
 > The kind of walkthrough I wish existed
 
+[Deployed Streamlit App](https://bandit-walkthrough.streamlit.app/)
+
 ## About
 
 This is a walkthrough for Bandit - OverTheWire, a game used to master the Linux commands. 
