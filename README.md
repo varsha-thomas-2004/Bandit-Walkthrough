@@ -14,8 +14,8 @@ Usual walkthroughs blurt out the solution, such as the password for the next lev
 * Does not give the user the complete answer (not applicable for first few levels), hence the user is forced to learn commands, hence, the purpose of Bandit is served.
 
 ## Tech Stack
-Language: Python
-Framework: Streamlit
+* Language: Python
+* Framework: Streamlit
 
 ## Getting Started
 ### Prerequisites
