@@ -33,7 +33,7 @@ pip install streamlit
 
 ## Usage
 ```
-streamlit run home.py
+streamlit run Home.py
 ```
 
 ## Contributing
